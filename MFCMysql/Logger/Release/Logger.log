@@ -1,0 +1,27 @@
+﻿生成启动时间为 2015/4/20 14:00:41。
+     1>项目“D:\Work\ZZTLM\APL\Code\Logger\Logger.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\Logger.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Release\Logger.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Logger.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Logger.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Logger.cpp LoggerFactory.cpp Logger_Req.cpp
+         Logger.cpp
+         LoggerFactory.cpp
+         Logger_Req.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"D:\Work\ZZTLM\APL\Code\Release\Logger.lib" /NOLOGO /LTCG Release\Logger.obj
+         Release\LoggerFactory.obj
+         Release\Logger_Req.obj
+         Release\stdafx.obj
+         Logger.vcxproj -> D:\Work\ZZTLM\APL\Code\Release\Logger.lib
+       FinalizeBuildStatus:
+         正在删除文件“Release\Logger.unsuccessfulbuild”。
+         正在对“Release\Logger.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Work\ZZTLM\APL\Code\Logger\Logger.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.86

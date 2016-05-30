@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/4/24 9:50:35。
+     1>项目“D:\Work\tmp\MFCMysql\DBAccess\DBAccess.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\Logger /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DBAccess.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DBAccessor.cpp
+         DBAccessor.cpp
+     1>d:\work\tmp\mfcmysql\dbaccess\dbaccessor.cpp(182): warning C4244: “参数”: 从“long”转换到“short”，可能丢失数据
+     1>d:\work\tmp\mfcmysql\dbaccess\dbaccessor.cpp(264): warning C4244: “参数”: 从“long”转换到“short”，可能丢失数据
+     1>d:\work\tmp\mfcmysql\dbaccess\dbaccessor.cpp(279): warning C4244: “参数”: 从“long”转换到“short”，可能丢失数据
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Work\tmp\MFCMysql\Debug\DBAccess.lib" /NOLOGO Debug\DBAccessor.obj
+         Debug\DBParam.obj
+         Debug\DBReq.obj
+         Debug\stdafx.obj
+         DBAccess.vcxproj -> D:\Work\tmp\MFCMysql\Debug\DBAccess.lib
+     1>已完成生成项目“D:\Work\tmp\MFCMysql\DBAccess\DBAccess.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.65

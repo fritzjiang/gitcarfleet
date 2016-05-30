@@ -1,0 +1,47 @@
+﻿生成启动时间为 2015/4/20 14:00:38。
+     1>项目“D:\Work\ZZTLM\APL\Code\DBAccess\DBAccess.vcxproj”在节点 5 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\DBAccess.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Release\DBAccess.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Logger /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\DBAccess.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Logger /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\DBAccess.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DBAccessor.cpp DBParam.cpp DBReq.cpp
+         DBAccessor.cpp
+         DBParam.cpp
+     1>DBParam.cpp(8): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(26): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(32): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(39): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(45): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(50): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(56): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(61): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(66): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(71): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(83): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(114): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(122): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(130): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(140): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(148): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(156): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(165): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(172): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+     1>DBParam.cpp(182): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DataTypeEnum”
+         DBReq.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"D:\Work\ZZTLM\APL\Code\Release\DBAccess.lib" /NOLOGO /LTCG Release\DBAccessor.obj
+         Release\DBParam.obj
+         Release\DBReq.obj
+         Release\stdafx.obj
+         DBAccess.vcxproj -> D:\Work\ZZTLM\APL\Code\Release\DBAccess.lib
+       FinalizeBuildStatus:
+         正在删除文件“Release\DBAccess.unsuccessfulbuild”。
+         正在对“Release\DBAccess.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Work\ZZTLM\APL\Code\DBAccess\DBAccess.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.98
